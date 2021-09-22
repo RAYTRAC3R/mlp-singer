@@ -7,6 +7,6 @@
     "mel_fmin": 0.0,
     "mel_fmax": 8000.0,
     "max_wav_value": 32768.0,
-    "consonant_emphasis": 3,
+    "consonant_emphasis": 5,
     "min_note": 52
 }
